@@ -1,6 +1,6 @@
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# Kalvium Lab | JS | PROGRAD-CONTACTS
+# Kalvium Lab | JS | Kalvium-CONTACTS
 
 We have learned promise works in JavaScript. Now lets work with our promise lab, applying all of the concepts we have just learned.
 
