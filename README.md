@@ -8,7 +8,10 @@ We have learned promise works in JavaScript. Now lets work with our promise lab,
 ### Progression 1: PROMISE ME
 Create a promise call which fetches data from (https://jsonplaceholder.typicode.com/users). When the promise gets resolved display the data in browser console.
 
-![](https://i1.faceprep.in/ProGrad/contact-1.png)
+<!-- ![](https://i1.faceprep.in/ProGrad/contact-1.png)
+ -->
+<img width="1509" alt="Screenshot 2022-11-14 at 10 28 48 PM" src="https://user-images.githubusercontent.com/109285740/201720838-62bbef33-c218-44d3-b965-0607c5194791.png">
+
 
 ### Progression 2: SHOW MY PROMISE
 Once the promise gets resolved, Display it in the form of list as shown in the output.
@@ -27,7 +30,11 @@ var player='<h2>Lists of Users</h2>';
                       <div>Zipcode : ${user.address.zipcode}</div>
                      </div>`
 ```
-![](https://i1.faceprep.in/ProGrad/contact-2.png)
+<!-- ![](https://i1.faceprep.in/ProGrad/contact-2.png) -->
+
+<img width="1511" alt="Screenshot 2022-11-14 at 10 29 05 PM" src="https://user-images.githubusercontent.com/109285740/201720919-01e21409-d5fa-4cff-8533-629310da2554.png">
+
+
 ### Progression 3: REJECT ME
 When the promise call is rejected then throw an error.
 
