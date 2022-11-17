@@ -1,4 +1,4 @@
-![Logo-nav](https://user-images.githubusercontent.com/109285740/201720547-c8c7344e-5779-4fcd-8521-2becf59ac805.png)
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 
 # Kalvium Lab | JS | Kalvium-CONTACTS
@@ -8,9 +8,7 @@ We have learned promise works in JavaScript. Now lets work with our promise lab,
 ### Progression 1: PROMISE ME
 Create a promise call which fetches data from (https://jsonplaceholder.typicode.com/users). When the promise gets resolved display the data in browser console.
 
-<!-- ![](https://i1.faceprep.in/ProGrad/contact-1.png)
- -->
-<img width="1509" alt="Screenshot 2022-11-14 at 10 28 48 PM" src="https://user-images.githubusercontent.com/109285740/201720838-62bbef33-c218-44d3-b965-0607c5194791.png">
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/contact-list-js-1.png)
 
 
 ### Progression 2: SHOW MY PROMISE
@@ -30,9 +28,7 @@ var player='<h2>Lists of Users</h2>';
                       <div>Zipcode : ${user.address.zipcode}</div>
                      </div>`
 ```
-<!-- ![](https://i1.faceprep.in/ProGrad/contact-2.png) -->
-
-<img width="1511" alt="Screenshot 2022-11-14 at 10 29 05 PM" src="https://user-images.githubusercontent.com/109285740/201720919-01e21409-d5fa-4cff-8533-629310da2554.png">
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/contact-list-js-2.png)
 
 
 ### Progression 3: REJECT ME
