@@ -11,9 +11,11 @@ As there are no test cases - so you are free to explore and experiment with your
 
 ### Progression 1: PROMISE ME
 
-Create a promise call which fetches data from (https://jsonplaceholder.typicode.com/users). When the promise gets resolved display the data in browser console.
+Create a promise call which fetches data from (https://jsonplaceholder.typicode.com/users). When the promise gets resolved display the data in console.
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/contact-list-js-1.png)
+
+The above image is of browser console, but you can even use stackblitz console for the same purpose.
 
 ### Progression 2: SHOW MY PROMISE
 
